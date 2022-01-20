@@ -11,7 +11,7 @@ You should only be allowed to drive when you have diriving liscence, when you ar
 
 If you don't have liscence - the result should be "You cannot drive"
 
-Otherwise
+Otherwise 
 
 If you are tired - "You shouldn't drive"
 
