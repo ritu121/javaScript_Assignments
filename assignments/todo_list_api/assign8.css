@@ -1,0 +1,15 @@
+.true, .false{
+    display: inline-block;
+    vertical-align: top;
+    margin: 50px;
+
+    border: 3px solid black;
+}
+
+.true{
+    background-color: lightblue;
+}
+
+.false{
+    background-color: lightcoral;
+} 

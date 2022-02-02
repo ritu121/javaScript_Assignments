@@ -10,7 +10,7 @@ Instructions
 * If the operation is remove, then remove the last movie from the array
 * Return the movie array
 
-```bash
+```bash    
 Example
 Input - add, Lucy
 Output - ["Lucy"]
